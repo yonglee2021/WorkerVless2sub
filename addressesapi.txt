@@ -48,7 +48,13 @@ cf.bona.eu.org:2083
 172.65.45.107:2083
 172.65.218.101:2083
 172.65.212.142:2083
-
+www.digitalocean.com:2083
+www.okcupid.com:2083
+www.who.int:2083
+edtunnel-dgp.pages.dev:2083
+www.udemy.com:2083
+www.shopify.com:2083
+www.csgo.com:2083
 
 
 
